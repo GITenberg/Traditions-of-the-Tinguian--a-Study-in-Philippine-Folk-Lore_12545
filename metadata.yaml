@@ -1,0 +1,30 @@
+_repo: Traditions-of-the-Tinguian--a-Study-in-Philippine-Folk-Lore_12545
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cole, Fay-Cooper
+    birthdate: 1881
+    deathdate: 1961
+    gutenberg_agent_id: '4415'
+    url: http://www.gutenberg.org/2009/agents/4415
+    wikipedia: http://www.mnsu.edu/emuseum/information/biography/abcde/cole_fay-cooper.html
+description: ''
+gutenberg_bookshelf:
+- Folklore
+- Anthropology
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Philippines -- Luzon'
+- !lcsh 'Tinguian (Philippine people)'
+- !lcc 'GR'
+- !lcc 'GN'
+- GITenberg
+title: 'Traditions of the Tinguian: a Study in Philippine Folk-Lore'
+url: http://www.gutenberg.org/ebooks/12545
